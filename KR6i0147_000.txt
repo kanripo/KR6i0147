@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說末羅王經
+#+DATE: 2015-08-30 20:11:07.228261
+#+PROPERTY: JUAN 0
